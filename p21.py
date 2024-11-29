@@ -1,4 +1,4 @@
-#Program to implement and Average / Mean filter to blur an image
+#Program to implement Average / Mean filter to blur an image
 
 #Importing required libraries
 import cv2
